@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    
+}
+*{
+    box-sizing: border-box;
+}
+
+.container{
+
+    display: flex;
+    height: 100vh;
+    background-color: #ffbe76;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+
+.nam_cord{
+    border: solid 1.5px #000; 
+     background-color: #dff9fb;
+     height: 70px;
+     width: 300px;
+     
+     font-family: 'Times New Roman', Times, serif; 
+     font-size: 150%;
+     
+}
